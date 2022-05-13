@@ -7,6 +7,7 @@
 
 # Build on Linux
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7cb278ffa5fe4f258b21b74554d5b74e)](https://app.codacy.com/gh/Aishwarya-ram/M3_Whiper-System?utm_source=github.com&utm_medium=referral&utm_content=Aishwarya-ram/M3_Whiper-System&utm_campaign=Badge_Grade_Settings)
 [![Build-Linux CI](https://github.com/Aishwarya-ram/M3_Whiper-System/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/Aishwarya-ram/M3_Whiper-System/actions/workflows/Build%20on%20Linux.yml)
  
 # Cpp check Analysis
