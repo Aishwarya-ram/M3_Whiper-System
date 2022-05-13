@@ -8,3 +8,7 @@
 # Build on Linux
 
 [![Build-Linux CI](https://github.com/Aishwarya-ram/M3_Whiper-System/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/Aishwarya-ram/M3_Whiper-System/actions/workflows/Build%20on%20Linux.yml)
+ 
+# Cpp check Analysis
+
+[![Cppcheck Analysis](https://github.com/Aishwarya-ram/M3_Whiper-System/actions/workflows/Cppcheck_Analyse.yml/badge.svg)](https://github.com/Aishwarya-ram/M3_Whiper-System/actions/workflows/Cppcheck_Analyse.yml)
